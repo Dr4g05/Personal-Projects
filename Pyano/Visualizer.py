@@ -117,7 +117,6 @@ class Visualizer():
         return keys
 
 
-    ##invata asta----------------------
     def processMidi(self, msg):
         mn = msg.note
         if mn not in self.keys: return
