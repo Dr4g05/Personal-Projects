@@ -1,4 +1,4 @@
-#Pyano  
+# Pyano  
 
 **Description:**
 This is a custom desktop application built with Python that serves as a MIDI visualizer, recorder, and rhythm game engine.  
