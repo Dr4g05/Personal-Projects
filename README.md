@@ -11,3 +11,7 @@ This repository contains personal projects that showcase my development skills a
 2. **CLI Book Manager** – A Java command-line application for managing a personal book collection.  
    - **Description:** Add, update, remove, sort, and list books with persistent storage in a local text file.  
    - **Technologies used:** Java, File I/O, Collections (ArrayList, HashMap), Lambdas, Exception Handling.
+  
+3. **Pyano** – A desktop MIDI visualizer, recorder, player and rhythm game for piano.  
+   - **Description:** Plays and records MIDI files with dynamic falling notes, featuring real-time playback controls, speed scaling, and seamless timeline scrubbing.  
+   - **Technologies used:** Python, Pygame, Mido (MIDI I/O), Object-Oriented Programming (OOP), Game Loop Architecture (Delta time, Stateless rendering).  
