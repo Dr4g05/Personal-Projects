@@ -3,6 +3,8 @@
 **Description:**  
 This is a custom Android application developed exclusively for Caferamica Café to manage customer orders efficiently. It allows staff to track order status, update readiness and finalization, and automatically notify customers via SMS when their orders are ready. This app is not intended for general use.
 
+---
+
 **Key Features:**  
 - Track orders by code with status: Ready, Finalized  
 - Send automatic SMS notifications to customers when orders are ready  
